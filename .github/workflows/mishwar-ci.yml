@@ -1,0 +1,29 @@
+name: Mishwar CI
+
+on:
+  push:
+    paths:
+      - 'mishwar/**'
+      - '.github/workflows/mishwar-ci.yml'
+  pull_request:
+    paths:
+      - 'mishwar/**'
+      - '.github/workflows/mishwar-ci.yml'
+
+jobs:
+  detect-and-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Inspect Mishwar workspace
+        run: |
+          echo "Mishwar workspace detected."
+          find mishwar -maxdepth 3 -type f -print || true
+          if [ -f mishwar/package.json ]; then
+            echo "JavaScript/Expo-compatible project detected."
+          elif [ -f mishwar/android/gradlew ]; then
+            echo "Native Android/Gradle project detected."
+          else
+            echo "Waiting for the exported mobile project from Floot."
+          fi
