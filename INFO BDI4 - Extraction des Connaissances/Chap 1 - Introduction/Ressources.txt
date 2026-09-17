@@ -1,0 +1,10 @@
+Data mining avec Scikit-Learn Python
+https://scikit-learn.org/stable/tutorial/basic/tutorial.html
+
+#Introduction à la programmation avec R
+https://monashdatafluency.github.io/r-intro-2/
+
+R et Data Mining
+http://www.rdatamining.com/
+
+

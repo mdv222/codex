@@ -1,0 +1,41 @@
+
+mercredi 27 août, 00:55
+Événement de cours
+
+Description du projet :
+Dans le cadre de ce projet, vous êtes chargé de développer un script d'autosurveillance pour un serveur Linux. Ce script a pour but d'identifier en temps réel les dysfonctionnements critiques du système ou de ses services essentiels, et d'alerter l'administrateur en cas d'anomalie. Le script devra être suffisamment autonome, sécurisé et clair dans ses actions, afin de pouvoir être intégré à une supervision de base.
+
+Objectifs
+Automatiser la surveillance de l'état du serveur.
+Détecter les anomalies système et applicatives.
+Envoyer des alertes par mail en cas de détection de problème.
+Maintenir un journal clair et lisible des événements observés.
+Travail demandé
+Vous devez écrire un script Shell permettant de réaliser les tâches suivantes :
+Vérification de services critiques :
+ S'assurer que les services essentiels du système sont bien démarrés et fonctionnels.
+Il s'agit notamment du serveur web (Apache ou Nginx), du serveur de base de données (MySQL ou MariaDB), et du service SSH.
+     2. Surveillance de l'espace disque :
+Détecter si certaines partitions du système dépassent un seuil d'occupation critique.
+     3. Contrôle de l'usage mémoire :
+Identifier les processus qui consomment une quantité anormale de mémoire vive.
+     4. Analyse des tentatives de connexion SSH :
+Détecter un nombre anormalement élevé de connexions SSH échouées, en s'appuyant sur les journaux du système.
+     5. Contrôle de l'accessibilité réseau :
+Vérifier que les services critiques sont bien accessibles sur les ports correspondants.
+     6. Gestion des alertes :
+En cas de problème détecté, un e-mail d'alerte doit être envoyé à l'administrateur du système à l'adresse suivante : admin@site.com.
+     7. Journalisation :
+Toutes les vérifications doivent être enregistrées dans un fichier de log, lisible et horodaté.
+
+Livrables attendus
+Vous devez remettre un fichier .zip (20 Mo max) contenant :
+Le script Shell commenté et bien structuré, nommé Nom_Prenom_Monitoring.sh
+Un fichier README.md expliquant les objectifs du script, comment l'utiliser et l'installer
+Les fichiers générés (logs, rapports...) : Un exemple de fichier de log ou de rapport généré automatiquement
+
+Date limite de dépôt : 15/08/2025
+
+Important : L'utilisation de code généré par l'IA est formellement interdit.
+
+A vos machines 
