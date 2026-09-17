@@ -1,0 +1,50 @@
+id;nomClient;adresseClient;idEtat;id2;tempsInsc;somme1;somme2
+1;Griffith Paving and Sealcoatin;talend@apres91;7;41;03/11/2006 09:20;67852;61521.4852
+2;Bill's Dive Shop;511 Maple Ave.  Apt. 1B;35;5;19/11/2004 15:48;88792;15434.1000
+3;Childress Child Day Care;662 Lyons Circle;1;28;16/02/2005 08:27;35340;17856.8818
+4;Facelift Kitchen and Bath;unknown;0;15;22/08/2002 09:55;6097.;55560.2387
+5;Terrinni & Son Auto and Truck;770 Exmoor Rd.;0;9;28/06/2001 09:15;5146.;39098.1148
+6;Kermit the Pet Shop;1860 Parkside Ln.;28;15;17/08/2003 10:07;16087;29924.9294
+7;Tub's Furniture Store;807 Old Trail Rd.;15;9;27/08/2000 03:13;53216;65352.5674
+8;Toggle & Myerson Ltd;618 Sheriden rd.;9;15;24/03/2006 23:07;74168;77920.6026
+9;Childress Child Day Care;788 Tennyson Ave.;12;33;10/09/2001 06:33;92176;56844.1263
+10;Elle Hypnosis and Therapy Cent;2032 Northbrook Ct.;1;7;11/01/1977 03:07;48498;45844.9148
+11;Lennox Air Pollution Control;4522 N. Greenview Apt. 1B;48;35;20/07/1987 07:13;23992;93520.1160
+12;Keyth Contracting and Repair;1547 Knolwood Rd.;25;39;12/01/2000 15:33;27786;46530.0991
+13;Park District Of America;2678 Sheridan Rd.;46;41;08/06/2003 11:15;5448.;29062.8166
+14;Nirabi Auto Service;1915 Lewis Ln.  Apt 13;8;5;19/06/2002 07:15;23220;43086.6464
+15;Darcy Frame and Matting Servic;1633 McGovern place;21;28;20/10/1987 12:22;46096;31014.8296
+16;Glenwood Credit Union;511 Maple Ave.  Apt. 1B;46;15;17/07/2000 17:27;90440;31684.7929
+17;Gourmet the Frog;788 Tennyson Ave.;1;9;07/09/2002 03:55;67680;62038.7700
+18;Acturial Enterprises Ltd.;3385 University Ave.;34;12;07/04/2001 10:42;45292;17008.7659
+19;Salt & Pepper Catering Service;965 Marion Place Apt. 65C;44;33;20/12/2006 10:02;13458;52120.6184
+20;Rythmics Ltd.;1875 Roger Williams Ave.;22;48;05/01/2005 16:27;70685;28463.9495
+21;Parkway Auto Body;1859 Green Bay Rd.;27;25;12/02/1974 11:20;62605;8387.3210
+22;Futoons Cartoons Emporium;1486 Old Deerfield Rd.;24;46;08/10/2000 23:00;73220;51850.6979
+23;Glenn Oaks Office Supplies;1882 St. Johns;10;8;03/09/2000 10:47;86100;54079.8900
+24;Garfield Appliance Service;3150 Skokie Valley Rd.;33;21;26/06/2001 00:47;74224;85912.7234
+25;New Dehli Auto Exchange;1957 Huntington Ave.;49;46;26/05/2005 10:33;50903;82453.0231
+26;Kermit the Pet Shop;12 Skokie Valley Rd.;45;1;17/11/1970 03:20;1426.;23810.7660
+27;Hibbard Road Suppliers;1858 Balsam Way;28;34;24/11/1974 04:40;26080;8442.0880
+28;Peterson Roberts Carpentry;59 Cordon Terr.;12;44;04/09/2006 21:00;96110;43358.8080
+29;Acme Chemical Supply;1858 Balsam Way;6;22;29/03/2006 21:22;52443;90392.0276
+30;Truck-X Muffler Repair;807 Old Trail Rd.;25;27;07/02/1974 20:13;78564;35453.5004
+31;Arthur M. Feildberg Galleries;1220 Heather Lane;37;24;13/05/1992 04:22;82248;70587.6544
+32;Cotton Thumb Ltd.;1882 St. Johns;13;10;24/12/1996 20:40;50345;17088.4070
+33;Childress Child Day Care;1912 Old Briar Lane #2;22;33;21/03/2000 03:35;2768.;97359.0055
+34;Foy Aviation;511 Hill;20;49;11/07/2002 07:02;46631;26404.9352
+35;Nyman Interior Design;2505 Allison ct.;47;45;02/01/1970 11:22;38474;90848.6540
+36;Got It All Electronics Supply;629 Kincaid Ave.;22;28;29/04/1980 13:40;29440;53380.6126
+37;PGS Associates;726 White Oaks Ave.;26;12;17/10/2000 03:53;94198;32720.7556
+38;Yale Remins Temp Agency;1912 Old Briar Lane #2;49;6;27/08/1985 04:07;81314;91092.3975
+39;Mergenthaler Inc.;673 Calais Drive;45;25;20/10/1971 10:47;30558;73456.6412
+40;Elm Place Business Supplies;505 N. Frances St.;16;37;02/02/2006 15:48;33428;86538.1125
+41;Parties Galore Golf Course;77 Blackhawk Rd;26;13;06/02/1996 09:47;4122.;28231.0160
+42;Glenn Oaks Office Supplies;2600 Winsor Mall;38;22;29/02/1996 13:20;94411;70933.0546
+43;Metro Appliance Service;2936 Arlington Ave.;30;20;14/01/1974 20:28;54665;69885.8828
+44;Parkway Auto Body;726 White Oaks Ave.;14;47;11/05/1993 14:35;94320;69425.8882
+45;Quad City Cleaning;218 Oakridge Ave.;48;22;23/07/1977 18:35;43450;8688.6032
+46;Hi-Land Art & Frame;3478 Bryn Mawr St.;12;26;07/12/2006 04:55;74696;76875.3584
+47;Brand Y Creative Services;14836 W. River Oaks Dr.;35;49;23/10/1977 05:02;97171;70842.4880
+48;George Lee Antiques;632 Roger Williams;46;45;03/08/2007 19:55;65765;70580.8838
+49;Johnson, Erico & Co CPA's;5518 Madison St.;17;16;26/10/2002 03:40;89561;99258.1102
